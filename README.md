@@ -1,10 +1,19 @@
-# The Algorithms with Kotlin on Leetcode
+# The Algorithms with Kotlin
 
-## My solituion of task from [Leetcode](https://leetcode.com/kotlerdev)
+My Kotlin exercises with comments from [Leetcode](https://leetcode.com/kotlerdev)
 
-Тут представлены мои решения задач на языке Java с небольшими комментариями
+### Topic: Array
 
-| Номер  | название/ссылка   | уровень |
-|-|-|-|
-| 0001   |[Two Sum](src/main/java/easy/p1__200/problem0001)| Easy |
-| 0009   |[Palindrome Number](src/main/java/easy/p1__200/prob)| Easy |
+| Task | Title     | Difficulty |
+|:----:|:----------|:----------:|
+| 0000 | [Title]() |    Easy    |
+| 0000 | [Title]() |   Medium   |
+| 0000 | [Title]() |    Hard    |
+
+### Topic: Any
+
+| Task | Title     | Difficulty |
+|:----:|:----------|:----------:|
+| 0000 | [Title]() |    Easy    |
+| 0000 | [Title]() |   Medium   |
+| 0000 | [Title]() |    Hard    |
