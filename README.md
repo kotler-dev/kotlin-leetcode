@@ -1,6 +1,6 @@
-# The Algorithms with <font color="#a571e6">Kotlin</font>
+# The Algorithms with Kotlin
 
-My Kotlin exercises with comments from [Leetcode](https://leetcode.com/kotlerdev)
+My Kotlin exercises with notes from [Leetcode](https://leetcode.com/kotlerdev)
 
 ### Topics
 
@@ -12,21 +12,21 @@ My Kotlin exercises with comments from [Leetcode](https://leetcode.com/kotlerdev
 
 #### Array
 
-| Task | Title                                    |    Solution    | Test  |                  Difficulty                  |
-|:----:|:-----------------------------------------|:--------------:|:-----:|:--------------------------------------------:|
-| 0000 | Two Sum                                  | [ :banana: ]() | [+]() |       <span data-color="#a571e6">text</span>        |
-| 0121 | [Best Time to Buy and Sell stock Easy]() |  [:rocket:]()  | [+]() |                ```+ Medium```                |
-| 0169 | [Majority Element]()                     |     [+]()      | [+]() |                 ```- Hard```                 |
-| 0000 | [Contains Duplicate]()                   |     [+]()      | [+]() |                 ```! Hard```                 |
+|  Id  | Task                                     |   Solution   |   Test   | Difficulty |
+|:----:|:-----------------------------------------|:------------:|:--------:|:----------:|
+|  0   | Two Sum                                  | [solution]() | [test]() |    Easy    |
+| 121  | [Best Time to Buy and Sell stock Easy]() | [solution]() | [test]() |   Medium   |
+| 169  | [Majority Element]()                     | [solution]() | [test]() |    Hard    |
+| 1000 | [Contains Duplicate]()                   | [solution]() | [test]() |    Hard    |
 
 #### String
 
-| Task | Title                                    |    Solution    | Test  |             Difficulty              |
-|:----:|:-----------------------------------------|:--------------:|:-----:|:-----------------------------------:|
-| 0000 | Two Sum                                  | [ :banana: ]() | [+]() |  <font color="#518c57">Easy</font>  |
-| 0121 | [Best Time to Buy and Sell stock Easy]() |     [+]()      | [+]() | <p style='color:#548af7'>Medium</p> |
-| 0169 | [Majority Element]()                     |     [+]()      | [+]() |  <font color="#a571e6">Hard</font>  |
-| 0000 | [Contains Duplicate]()                   |     [+]()      | [+]() |  <font color="#a571e6">Hard</font>  |
+|  Id  | Task                                     | Solution | Test  | Difficulty |
+|:----:|:-----------------------------------------|:--------:|:-----:|:----------:|
+| 0000 | Two Sum                                  |  [+]()   | [+]() |    Easy    |
+| 0121 | [Best Time to Buy and Sell stock Easy]() |  [+]()   | [+]() |   Medium   |
+| 0169 | [Majority Element]()                     |  [+]()   | [+]() |   Medium   |
+| 0000 | [Contains Duplicate]()                   |  [+]()   | [+]() |    Hard    |
 
 ### Topic: Any
 
