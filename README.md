@@ -15,9 +15,9 @@ My Kotlin exercises with comments from [Leetcode](https://leetcode.com/kotlerdev
 | Task | Title                                    |    Solution    | Test  |                Difficulty                 |
 |:----:|:-----------------------------------------|:--------------:|:-----:|:-----------------------------------------:|
 | 0000 | Two Sum                                  | [ :banana: ]() | [+]() | <code style="color : #a571e6">text</code> |
-| 0121 | [Best Time to Buy and Sell stock Easy]() |  [:rocket:]()  | [+]() |                 + Medium                  |
-| 0169 | [Majority Element]()                     |     [+]()      | [+]() |                  - Hard                   |
-| 0000 | [Contains Duplicate]()                   |     [+]()      | [+]() |                  ! Hard                   |
+| 0121 | [Best Time to Buy and Sell stock Easy]() |  [:rocket:]()  | [+]() |                 ```+ Medium```                  |
+| 0169 | [Majority Element]()                     |     [+]()      | [+]() |                  ```- Hard```                   |
+| 0000 | [Contains Duplicate]()                   |     [+]()      | [+]() |                  ```! Hard```                   |
 
 #### String
 
