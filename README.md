@@ -12,12 +12,12 @@ My Kotlin exercises with comments from [Leetcode](https://leetcode.com/kotlerdev
 
 #### Array
 
-| Task | Title                                    |    Solution    | Test  |                Difficulty                 |
-|:----:|:-----------------------------------------|:--------------:|:-----:|:-----------------------------------------:|
-| 0000 | Two Sum                                  | [ :banana: ]() | [+]() | <code style="color : #a571e6">text</code> |
-| 0121 | [Best Time to Buy and Sell stock Easy]() |  [:rocket:]()  | [+]() |                 ```+ Medium```                  |
-| 0169 | [Majority Element]()                     |     [+]()      | [+]() |                  ```- Hard```                   |
-| 0000 | [Contains Duplicate]()                   |     [+]()      | [+]() |                  ```! Hard```                   |
+| Task | Title                                    |    Solution    | Test  |                  Difficulty                  |
+|:----:|:-----------------------------------------|:--------------:|:-----:|:--------------------------------------------:|
+| 0000 | Two Sum                                  | [ :banana: ]() | [+]() |       <span data-color="#a571e6">text</span>        |
+| 0121 | [Best Time to Buy and Sell stock Easy]() |  [:rocket:]()  | [+]() |                ```+ Medium```                |
+| 0169 | [Majority Element]()                     |     [+]()      | [+]() |                 ```- Hard```                 |
+| 0000 | [Contains Duplicate]()                   |     [+]()      | [+]() |                 ```! Hard```                 |
 
 #### String
 
