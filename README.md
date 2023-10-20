@@ -1,4 +1,4 @@
-# The Algorithms with Kotlin
+# The Algorithms with <font color="#a571e6">Kotlin</font>
 
 My Kotlin exercises with comments from [Leetcode](https://leetcode.com/kotlerdev)
 
@@ -12,21 +12,21 @@ My Kotlin exercises with comments from [Leetcode](https://leetcode.com/kotlerdev
 
 #### Array
 
-| Task | Title                                    |    Solution    | Test  |      Difficulty      |
-|:----:|:-----------------------------------------|:--------------:|:-----:|:--------------------:|
-| 0000 | Two Sum                                  | [ :banana: ]() | [+]() | $${\color{red}Red}$$ |
-| 0121 | [Best Time to Buy and Sell stock Easy]() |  [:rocket:]()  | [+]() |        Medium        |
-| 0169 | [Majority Element]()                     |     [+]()      | [+]() |         Hard         |
-| 0000 | [Contains Duplicate]()                   |     [+]()      | [+]() |         Hard         |
-
-#### String
-
 | Task | Title                                    |    Solution    | Test  | Difficulty |
 |:----:|:-----------------------------------------|:--------------:|:-----:|:----------:|
 | 0000 | Two Sum                                  | [ :banana: ]() | [+]() |    Easy    |
-| 0121 | [Best Time to Buy and Sell stock Easy]() |     [+]()      | [+]() |   Medium   |
+| 0121 | [Best Time to Buy and Sell stock Easy]() |  [:rocket:]()  | [+]() |   Medium   |
 | 0169 | [Majority Element]()                     |     [+]()      | [+]() |    Hard    |
 | 0000 | [Contains Duplicate]()                   |     [+]()      | [+]() |    Hard    |
+
+#### String
+
+| Task | Title                                    |    Solution    | Test  |             Difficulty              |
+|:----:|:-----------------------------------------|:--------------:|:-----:|:-----------------------------------:|
+| 0000 | Two Sum                                  | [ :banana: ]() | [+]() |  <font color="#518c57">Easy</font>  |
+| 0121 | [Best Time to Buy and Sell stock Easy]() |     [+]()      | [+]() | <font color="#548af7">Medium</font> |
+| 0169 | [Majority Element]()                     |     [+]()      | [+]() |  <font color="#a571e6">Hard</font>  |
+| 0000 | [Contains Duplicate]()                   |     [+]()      | [+]() |  <font color="#a571e6">Hard</font>  |
 
 ### Topic: Any
 
