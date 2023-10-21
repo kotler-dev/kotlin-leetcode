@@ -1,11 +1,13 @@
+[//]: # (Copyright [2023] [Anton Kotler kotler.developer@gmail.com] License MIT)
+
 # The Algorithms with Kotlin
 
 My Kotlin exercises with tests from [Leetcode](https://leetcode.com/kotlerdev)
 
 [//]: # ([![Kotlin Stable]&#40;https://kotl.in/badges/stable.svg&#41;]&#40;https://kotlinlang.org/docs/components-stability.html&#41;)
-[![Kotlin](https://img.shields.io/badge/kotlin-1.9.0-blue.svg?logo=kotlin)](http://kotlinlang.org)
-[![Kotest](https://img.shields.io/badge/kotest-5.7-green.svg?logo=kotest)](https://kotest.io)
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
+[![Kotlin](https://img.shields.io/badge/kotlin-1.9.0-a571e6.svg)](http://kotlinlang.org)
+[![Kotest](https://img.shields.io/badge/kotest-5.7-61904f.svg)](https://kotest.io)
+[![GitHub license](https://img.shields.io/badge/license-MIT-548af7.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
 ### Topics
 
@@ -45,20 +47,24 @@ My Kotlin exercises with tests from [Leetcode](https://leetcode.com/kotlerdev)
 
 #### Array
 
-|  Id  | Task                                 |   Solution   |   Test   | Difficulty |
-|:----:|:-------------------------------------|:------------:|:--------:|:----------:|
-|  0   | Two Sum                              | [solution]() | [test]() |    Easy    |
-| 121  | Best Time to Buy and Sell stock Easy | [solution]() | [test]() |    Easy    |
-| 169  | Majority Element                     | [solution]() | [test]() |    Easy    |
-| 1000 | Contains Duplicate                   | [solution]() | [test]() |    Easy    |
+|  ID  | Description                                                     |                           Solution                            |                             Test                              | Difficulty |
+|:----:|:----------------------------------------------------------------|:-------------------------------------------------------------:|:-------------------------------------------------------------:|:----------:|
+|  1   | [Two Sum](src/main/kotlin/exercise100/easy/id1/Description1.md) | [solution](src/main/kotlin/exercise100/easy/id1/Solution1.kt) | [test](src/test/kotlin/exercise100/easy/id1/Solution1Test.kt) |    Easy    |
+| 121  | [Best Time to Buy and Sell stock Easy]()                        |                         [solution]()                          |                           [test]()                            |    Easy    |
+| 169  | [Majority Element]()                                            |                         [solution]()                          |                           [test]()                            |    Easy    |
+| 1000 | [Contains Duplicate]()                                          |                         [solution]()                          |                           [test]()                            |    Easy    |
 
-### Topic: Any
+### Template
 
-|  Id  | Task  |   Solution   |   Test   | Difficulty |
-|:----:|:------|:------------:|:--------:|:----------:|
-| 0000 | Title | [solution]() | [test]() |    Easy    |
-| 0000 | Title | [solution]() | [test]() |   Medium   |
-| 0000 | Title | [solution]() | [test]() |    Hard    |
+|  ID  | Description                                                   |                           Solution                            |                             Test                              | Difficulty |
+|:----:|:--------------------------------------------------------------|:-------------------------------------------------------------:|:-------------------------------------------------------------:|:----------:|
+| 0000 | [Title](src/main/kotlin/exercise100/easy/id1/Description1.md) | [solution](src/main/kotlin/exercise100/easy/id1/Solution1.kt) | [test](src/test/kotlin/exercise100/easy/id1/Solution1Test.kt) |    Easy    |
+| 0000 | [Title](src/main/kotlin/exercise100/easy/id1/Description1.md) | [solution](src/main/kotlin/exercise100/easy/id1/Solution1.kt) | [test](src/test/kotlin/exercise100/easy/id1/Solution1Test.kt) |   Medium   |
+| 0000 | [Title](src/main/kotlin/exercise100/easy/id1/Description1.md) | [solution](src/main/kotlin/exercise100/easy/id1/Solution1.kt) | [test](src/test/kotlin/exercise100/easy/id1/Solution1Test.kt) |    Hard    |
+
+![GitHub license](https://img.shields.io/badge/Difficulty-Easy-61904f)
+![GitHub license](https://img.shields.io/badge/Difficulty-Medium-548af7)
+![GitHub license](https://img.shields.io/badge/Difficulty-Hard-a571e6)
 
 [//]: # (https://www.techinterviewhandbook.org/grind75?weeks=26&hours=40&grouping=topics)
 
