@@ -43,3 +43,6 @@ Constraints:
 | 1  | Two Sum     | [solution](./Solution1.kt) | [test](../../../../../../src/test/kotlin/exercise100/easy/id1/Solution1Test.kt) |    Easy    |
 
 :top: [Back to all topics](kotlin-leetcode/blob/master/README.md)
+:top: [Back to all topics](kotlin-leetcode/tree/master/README.md)
+:top: [Back to all topics](../../../../../../../README.md)
+:top: [Back to all topics](https://github.com/kotler-dev/kotlin-leetcode)
