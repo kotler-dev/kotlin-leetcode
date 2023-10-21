@@ -4,8 +4,8 @@
 
 ![GitHub license](https://img.shields.io/badge/Difficulty-Easy-61904f)
 
-Given an array of integer nums and an integer target, return indices of the two numbers such that they add up to
-target.  
+Given an array of integer `nums` and an integer `target`, return indices of the two numbers such that they add up to
+`target`.  
 You may assume that each input world have exactly one solution, and you may not the same element twice.  
 You can return the answer in any order.
 
@@ -42,9 +42,4 @@ Constraints:
 |:--:|:------------|:--------------------------:|:-------------------------------------------------------------------------------:|:----------:|
 | 1  | Two Sum     | [solution](./Solution1.kt) | [test](../../../../../../src/test/kotlin/exercise100/easy/id1/Solution1Test.kt) |    Easy    |
 
-/exercise/id1/src/main/kotlin/exercise100/easy/id1/Description.md
-
-/exercise/id1/src/main/kotlin/exercise100/easy/id1/Description1.md
-/exercise/id1/src/main/kotlin/exercise100/easy/ 
-          id1/src/test/kotlin/exercise100/easy/id1/Solution1Test.kt
-    kotlin-leetcode/src/main/kotlin/exercise100/easy/id1  /Description1.md
+[:top: Back to all topics](../../../../../../../../../README.md)
