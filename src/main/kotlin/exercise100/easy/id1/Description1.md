@@ -44,5 +44,5 @@ Constraints:
 
 :top: [Back to all topics](kotlin-leetcode/blob/master/README.md)
 :top: [Back to all topics](kotlin-leetcode/tree/master/README.md)
-:top: [Back to all topics](../../../../../../../README.md)
+:top: [Back to all topics](../../../../../../../master/README.md)
 :top: [Back to all topics](https://github.com/kotler-dev/kotlin-leetcode)
