@@ -5,7 +5,7 @@
 My Kotlin exercises with tests from [Leetcode](https://leetcode.com/kotlerdev)
 
 [//]: # ([![Kotlin Stable]&#40;https://kotl.in/badges/stable.svg&#41;]&#40;https://kotlinlang.org/docs/components-stability.html&#41;)
-[![Kotlin](https://img.shields.io/badge/kotlin-1.9.0-a571e6.svg)](http://kotlinlang.org)
+[![Kotlin](https://img.shields.io/badge/kotlin-1.9.10-a571e6.svg)](http://kotlinlang.org)
 [![Kotest](https://img.shields.io/badge/kotest-5.7-61904f.svg)](https://kotest.io)
 [![GitHub license](https://img.shields.io/badge/license-MIT-548af7.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
