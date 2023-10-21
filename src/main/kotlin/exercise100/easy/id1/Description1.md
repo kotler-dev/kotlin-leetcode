@@ -38,9 +38,9 @@ Constraints:
 - `-10^9 <= target <= 10^9`
 - Only one valid answer exist.
 
-| Id | Description |          Solution          |                                     Test                                     | Difficulty |
-|:--:|:------------|:--------------------------:|:----------------------------------------------------------------------------:|:----------:|
-| 1  | Two Sum     | [solution](./Solution1.kt) | [test](../../../../../src/test/kotlin/exercise100/easy/id1/Solution1Test.kt) |    Easy    |
+| Id | Description |          Solution          |                                      Test                                       | Difficulty |
+|:--:|:------------|:--------------------------:|:-------------------------------------------------------------------------------:|:----------:|
+| 1  | Two Sum     | [solution](./Solution1.kt) | [test](../../../../../../src/test/kotlin/exercise100/easy/id1/Solution1Test.kt) |    Easy    |
 
 /exercise/id1/src/main/kotlin/exercise100/easy/id1/Description.md
 
