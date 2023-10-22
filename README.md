@@ -51,7 +51,7 @@ My Kotlin exercises with tests from [Leetcode](https://leetcode.com/kotlerdev)
 |:----:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------:|:-----------------------------------------------------------------:|:----------:|
 |  1   | [Two Sum](src/main/kotlin/exercise100/easy/id1/Description1.md)                                  |   [solution](src/main/kotlin/exercise100/easy/id1/Solution1.kt)   |   [test](src/test/kotlin/exercise100/easy/id1/Solution1Test.kt)   |    Easy    |
 | 121  | [Best Time to Buy and Sell stock Easy](src/main/kotlin/exercise100/easy/id121/Description121.md) | [solution](src/main/kotlin/exercise100/easy/id121/Solution121.kt) | [test](src/test/kotlin/exercise100/easy/id121/Solution121Test.kt) |    Easy    |
-| 169  | [Majority Element]()                                                                             |                           [solution]()                            |                             [test]()                              |    Easy    |
+| 169  | [Majority Element](src/main/kotlin/exercise100/easy/id169/Description169.md)                     | [solution](src/main/kotlin/exercise100/easy/id169/Solution169.kt) | [test](src/test/kotlin/exercise100/easy/id169/Solution169Test.kt) |    Easy    |
 | 1000 | [Contains Duplicate]()                                                                           |                           [solution]()                            |                             [test]()                              |    Easy    |
 
 [//]: # (https://www.techinterviewhandbook.org/grind75?weeks=26&hours=40&grouping=topics)
