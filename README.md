@@ -47,24 +47,12 @@ My Kotlin exercises with tests from [Leetcode](https://leetcode.com/kotlerdev)
 
 #### Array
 
-|  ID  | Description                                                     |                           Solution                            |                             Test                              | Difficulty |
-|:----:|:----------------------------------------------------------------|:-------------------------------------------------------------:|:-------------------------------------------------------------:|:----------:|
-|  1   | [Two Sum](src/main/kotlin/exercise100/easy/id1/Description1.md) | [solution](src/main/kotlin/exercise100/easy/id1/Solution1.kt) | [test](src/test/kotlin/exercise100/easy/id1/Solution1Test.kt) |    Easy    |
-| 121  | [Best Time to Buy and Sell stock Easy]()                        |                         [solution]()                          |                           [test]()                            |    Easy    |
-| 169  | [Majority Element]()                                            |                         [solution]()                          |                           [test]()                            |    Easy    |
-| 1000 | [Contains Duplicate]()                                          |                         [solution]()                          |                           [test]()                            |    Easy    |
-
-### Template
-
-|  ID  | Description                                                   |                           Solution                            |                             Test                              | Difficulty |
-|:----:|:--------------------------------------------------------------|:-------------------------------------------------------------:|:-------------------------------------------------------------:|:----------:|
-| 0000 | [Title](src/main/kotlin/exercise100/easy/id1/Description1.md) | [solution](src/main/kotlin/exercise100/easy/id1/Solution1.kt) | [test](src/test/kotlin/exercise100/easy/id1/Solution1Test.kt) |    Easy    |
-| 0000 | [Title](src/main/kotlin/exercise100/easy/id1/Description1.md) | [solution](src/main/kotlin/exercise100/easy/id1/Solution1.kt) | [test](src/test/kotlin/exercise100/easy/id1/Solution1Test.kt) |   Medium   |
-| 0000 | [Title](src/main/kotlin/exercise100/easy/id1/Description1.md) | [solution](src/main/kotlin/exercise100/easy/id1/Solution1.kt) | [test](src/test/kotlin/exercise100/easy/id1/Solution1Test.kt) |    Hard    |
-
-![GitHub license](https://img.shields.io/badge/Difficulty-Easy-61904f)
-![GitHub license](https://img.shields.io/badge/Difficulty-Medium-548af7)
-![GitHub license](https://img.shields.io/badge/Difficulty-Hard-a571e6)
+|  ID  | Description                                                                                      |                             Solution                              |                               Test                                | Difficulty |
+|:----:|:-------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------:|:-----------------------------------------------------------------:|:----------:|
+|  1   | [Two Sum](src/main/kotlin/exercise100/easy/id1/Description1.md)                                  |   [solution](src/main/kotlin/exercise100/easy/id1/Solution1.kt)   |   [test](src/test/kotlin/exercise100/easy/id1/Solution1Test.kt)   |    Easy    |
+| 121  | [Best Time to Buy and Sell stock Easy](src/main/kotlin/exercise100/easy/id121/Description121.md) | [solution](src/main/kotlin/exercise100/easy/id121/Solution121.kt) | [test](src/test/kotlin/exercise100/easy/id121/Solution121Test.kt) |    Easy    |
+| 169  | [Majority Element]()                                                                             |                           [solution]()                            |                             [test]()                              |    Easy    |
+| 1000 | [Contains Duplicate]()                                                                           |                           [solution]()                            |                             [test]()                              |    Easy    |
 
 [//]: # (https://www.techinterviewhandbook.org/grind75?weeks=26&hours=40&grouping=topics)
 
