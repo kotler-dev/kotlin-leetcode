@@ -1,4 +1,4 @@
-package exercise100.easy.id169
+package exercise.easy.id169
 
 import io.kotest.assertions.print.print
 import io.kotest.core.spec.style.FunSpec

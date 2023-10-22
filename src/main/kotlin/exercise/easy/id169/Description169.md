@@ -32,6 +32,6 @@ Follow-up: Could you solve the problem in linear time and in `O(1)` space?
 
 | ID  | Description      |           Solution           |                                        Test                                         | Difficulty |
 |:---:|:-----------------|:----------------------------:|:-----------------------------------------------------------------------------------:|:----------:|
-| 169 | Majority Element | [solution](./Solution169.kt) | [test](../../../../../../src/test/kotlin/exercise100/easy/id169/Solution169Test.kt) |    Easy    |
+| 169 | Majority Element | [solution](./Solution169.kt) | [test](../../../../../test/kotlin/exercise/easy/id169/Solution169Test.kt) |    Easy    |
 
 :top: [Back to all topics](https://github.com/kotler-dev/kotlin-leetcode)

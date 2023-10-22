@@ -1,4 +1,4 @@
-package exercise100.easy.id121
+package exercise.easy.id121
 
 class Solution121 {
     fun maxProfit(prices: IntArray): Int {

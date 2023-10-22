@@ -32,6 +32,6 @@ Constraints:
 
 | ID  | Description                     |           Solution           |                                        Test                                         | Difficulty |
 |:---:|:--------------------------------|:----------------------------:|:-----------------------------------------------------------------------------------:|:----------:|
-| 121 | Best Time to Buy and Sell Stock | [solution](./Solution121.kt) | [test](../../../../../../src/test/kotlin/exercise100/easy/id121/Solution121Test.kt) |    Easy    |
+| 121 | Best Time to Buy and Sell Stock | [solution](./Solution121.kt) | [test](../../../../../../src/test/kotlin/exercise/easy/id121/Solution121Test.kt) |    Easy    |
 
 :top: [Back to all topics](https://github.com/kotler-dev/kotlin-leetcode)

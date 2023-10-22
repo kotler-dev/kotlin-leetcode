@@ -1,4 +1,4 @@
-package exercise100.easy.id1
+package exercise.easy.id1
 
 class Solution1 {
     fun twoSum(nums: IntArray, target: Int): IntArray {

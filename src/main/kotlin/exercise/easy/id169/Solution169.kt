@@ -1,4 +1,4 @@
-package exercise100.easy.id169
+package exercise.easy.id169
 
 class Solution169 {
     fun majorityElement(nums: IntArray): Int {
