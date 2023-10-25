@@ -55,6 +55,7 @@ My Kotlin exercises with tests from [Leetcode](https://leetcode.com/kotlerdev)
 | 217 | [Contains Duplicate](src/main/kotlin/exercise/easy/id217/Description217.md)                   | [solution](src/main/kotlin/exercise/easy/id217/Solution217.kt) | [test](src/test/kotlin/exercise/easy/id217/Solution217Test.kt) |    Easy    |
 | 283 | [Move Zeroes](src/main/kotlin/exercise/easy/id283/Description283.md)                          | [solution](src/main/kotlin/exercise/easy/id283/Solution283.kt) | [test](src/test/kotlin/exercise/easy/id283/Solution283Test.kt) |    Easy    |
 | 977 | [Squares of a Sorted Array](src/main/kotlin/exercise/easy/id977/Description977.md)            | [solution](src/main/kotlin/exercise/easy/id977/Solution977.kt) | [test](src/test/kotlin/exercise/easy/id977/Solution977Test.kt) |    Easy    |
+| 57 | [Insert Internal](src/main/kotlin/exercise/medium/id57/Description57.md)                        | [solution](src/main/kotlin/exercise/medium/id57/Solution57.kt) | [test](src/test/kotlin/exercise/medium/id57/Solution57Test.kt) |   Medium   |
 
 [//]: # (https://www.techinterviewhandbook.org/grind75?weeks=26&hours=40&grouping=topics)
 
