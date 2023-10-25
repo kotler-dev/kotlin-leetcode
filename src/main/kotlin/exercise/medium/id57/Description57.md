@@ -46,6 +46,6 @@ Constraints:
 
 | ID | Description     |          Solution           |                                       Test                                       | Difficulty |
 |:--:|:----------------|:---------------------------:|:--------------------------------------------------------------------------------:|:----------:|
-| 57 | Insert Interval | [solution](./Solution57.kt) | [test](../../../../../../src/test/kotlin/exercise/medium/id57/Solution57Test.kt) |    Easy    |
+| 57 | Insert Interval | [solution](./Solution57.kt) | [test](../../../../../../src/test/kotlin/exercise/medium/id57/Solution57Test.kt) |   Medium   |
 
 :top: [Back to all topics](https://github.com/kotler-dev/kotlin-leetcode)
