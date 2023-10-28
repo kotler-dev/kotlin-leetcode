@@ -47,16 +47,17 @@ My Kotlin exercises with tests from [Leetcode](https://leetcode.com/kotlerdev)
 
 #### Array
 
-| ID  | Description                                                                                   |                            Solution                            |                              Test                              | Difficulty |
-|:---:|:----------------------------------------------------------------------------------------------|:--------------------------------------------------------------:|:--------------------------------------------------------------:|:----------:|
-|  1  | [Two Sum](src/main/kotlin/exercise/easy/id1/Description1.md)                                  |   [solution](src/main/kotlin/exercise/easy/id1/Solution1.kt)   |   [test](src/test/kotlin/exercise/easy/id1/Solution1Test.kt)   |    Easy    |
-| 121 | [Best Time to Buy and Sell stock Easy](src/main/kotlin/exercise/easy/id121/Description121.md) | [solution](src/main/kotlin/exercise/easy/id121/Solution121.kt) | [test](src/test/kotlin/exercise/easy/id121/Solution121Test.kt) |    Easy    |
-| 169 | [Majority Element](src/main/kotlin/exercise/easy/id169/Description169.md)                     | [solution](src/main/kotlin/exercise/easy/id169/Solution169.kt) | [test](src/test/kotlin/exercise/easy/id169/Solution169Test.kt) |    Easy    |
-| 217 | [Contains Duplicate](src/main/kotlin/exercise/easy/id217/Description217.md)                   | [solution](src/main/kotlin/exercise/easy/id217/Solution217.kt) | [test](src/test/kotlin/exercise/easy/id217/Solution217Test.kt) |    Easy    |
-| 283 | [Move Zeroes](src/main/kotlin/exercise/easy/id283/Description283.md)                          | [solution](src/main/kotlin/exercise/easy/id283/Solution283.kt) | [test](src/test/kotlin/exercise/easy/id283/Solution283Test.kt) |    Easy    |
-| 977 | [Squares of a Sorted Array](src/main/kotlin/exercise/easy/id977/Description977.md)            | [solution](src/main/kotlin/exercise/easy/id977/Solution977.kt) | [test](src/test/kotlin/exercise/easy/id977/Solution977Test.kt) |    Easy    |
-| 15  | [3Sum](src/main/kotlin/exercise/medium/id15/Description15.md)                                 | [solution](src/main/kotlin/exercise/medium/id15/Solution15.kt) | [test](src/test/kotlin/exercise/medium/id15/Solution15Test.kt) |   Medium   |
-| 57  | [Insert Internal](src/main/kotlin/exercise/medium/id57/Description57.md)                      | [solution](src/main/kotlin/exercise/medium/id57/Solution57.kt) | [test](src/test/kotlin/exercise/medium/id57/Solution57Test.kt) |   Medium   |
+| ID  | Description                                                                                   |                             Solution                             |                               Test                               | Difficulty |
+|:---:|:----------------------------------------------------------------------------------------------|:----------------------------------------------------------------:|:----------------------------------------------------------------:|:----------:|
+|  1  | [Two Sum](src/main/kotlin/exercise/easy/id1/Description1.md)                                  |    [solution](src/main/kotlin/exercise/easy/id1/Solution1.kt)    |    [test](src/test/kotlin/exercise/easy/id1/Solution1Test.kt)    |    Easy    |
+| 121 | [Best Time to Buy and Sell stock Easy](src/main/kotlin/exercise/easy/id121/Description121.md) |  [solution](src/main/kotlin/exercise/easy/id121/Solution121.kt)  |  [test](src/test/kotlin/exercise/easy/id121/Solution121Test.kt)  |    Easy    |
+| 169 | [Majority Element](src/main/kotlin/exercise/easy/id169/Description169.md)                     |  [solution](src/main/kotlin/exercise/easy/id169/Solution169.kt)  |  [test](src/test/kotlin/exercise/easy/id169/Solution169Test.kt)  |    Easy    |
+| 217 | [Contains Duplicate](src/main/kotlin/exercise/easy/id217/Description217.md)                   |  [solution](src/main/kotlin/exercise/easy/id217/Solution217.kt)  |  [test](src/test/kotlin/exercise/easy/id217/Solution217Test.kt)  |    Easy    |
+| 283 | [Move Zeroes](src/main/kotlin/exercise/easy/id283/Description283.md)                          |  [solution](src/main/kotlin/exercise/easy/id283/Solution283.kt)  |  [test](src/test/kotlin/exercise/easy/id283/Solution283Test.kt)  |    Easy    |
+| 977 | [Squares of a Sorted Array](src/main/kotlin/exercise/easy/id977/Description977.md)            |  [solution](src/main/kotlin/exercise/easy/id977/Solution977.kt)  |  [test](src/test/kotlin/exercise/easy/id977/Solution977Test.kt)  |    Easy    |
+| 15  | [3Sum](src/main/kotlin/exercise/medium/id15/Description15.md)                                 |  [solution](src/main/kotlin/exercise/medium/id15/Solution15.kt)  |  [test](src/test/kotlin/exercise/medium/id15/Solution15Test.kt)  |   Medium   |
+| 57  | [Insert Internal](src/main/kotlin/exercise/medium/id57/Description57.md)                      |  [solution](src/main/kotlin/exercise/medium/id57/Solution57.kt)  |  [test](src/test/kotlin/exercise/medium/id57/Solution57Test.kt)  |   Medium   |
+| 238 | [Product of Array Except Self](src/main/kotlin/exercise/medium/id238/Description238.md)       | [solution](src/main/kotlin/exercise/medium/id238/Solution238.kt) | [test](src/test/kotlin/exercise/medium/id238/Solution238Test.kt) |   Medium   |
 
 #### String
 
